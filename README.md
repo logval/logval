@@ -1,9 +1,9 @@
-i am logval, he/they/she pronouns, en/es
+i am logval, any pronouns, en/es
 
-i like computers, linguistics/natlangs/conlangs, origami, psychology, and games.
+i like linguistics/natlangs/conlangs, origami, psychology, and games.
 
 learning how to code, how to develop games, and other school things.
 
-i want to do more gamedev and ai things
+i want to do more gamedev and maybe ai things
 
 logval on discord
